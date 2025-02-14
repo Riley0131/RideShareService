@@ -10,7 +10,7 @@ Admins can set multiple different rideshare options such as base fare, cost per 
 Admin login is required to verify admin authenticity.
 The admin can review ride statistics, and survey results can be exported to a text file.
 
-## Admin Mode
+## User Mode
 Users can select a rideshare, specify the number of miles for their trip, and view the calculated fare.
 Users can rate the rideshare experience in categories like Safety, Cleanliness, and Comfort.
 The program keeps track of the total number of riders, total miles, and total fares for each rideshare.
